@@ -121,3 +121,5 @@ module "aviatrixcontroller" {
 - **public_ip_list**
   
   List of Public IP addresses of all the Aviatrix controllers launched on the same VPC.
+  
+  
